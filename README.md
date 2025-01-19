@@ -21,11 +21,12 @@ The Car Sales Analysis Dashboard is a dynamic and interactive Power BI tool desi
 ### Power BI Development Process
 - Data Import: Imported structured data into Power BI.
 - Data Modeling: Created relationships between tables to establish connections between sales, brand, and regional data.
-- Visualization: Designed engaging dashboards with: 1. Donut charts to show car count by department.
-2. Line graphs for salary distribution by country.
-3. Dynamic KPI cards to display total sales, brand performance, and department metrics.
-4. Tables highlighting latest purchases and brand details.
-- Interactivity: Added slicers for filtering data by year, department, and demographic details such as gender.
+- Visualization: Designed engaging dashboards with:
+ 1. Donut charts to show car count by department.
+ 2. Line graphs for salary distribution by country.
+ 3. Dynamic KPI cards to display total sales, brand performance, and department metrics.
+ 4. Tables highlighting latest purchases and brand details.
+ - Interactivity: Added slicers for filtering data by year, department, and demographic details such as gender.
 
 ### Visualizations and Insights
 - Car Count by Department: A donut chart visualizes the proportion of sales by different departments.
